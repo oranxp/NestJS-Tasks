@@ -1,0 +1,8 @@
+* This project was created following a NestJS Udemy course by Ariel Weinberger.
+Task management app - NestJS (Node.js framework)
+Features: 
+- Users Authentication process: signing up\in, secure password.
+- Creating / Editing / Getting / Deleting own users tasks.
+- Each task is associated with a user and contains name, description and task status.
+- Input validation - DTOs
+- Error and Exception handling.
